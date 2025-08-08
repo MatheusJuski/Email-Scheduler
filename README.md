@@ -18,7 +18,7 @@ Project struture:
 
 email_scheduler/
 
-├── agendador.py       # Main script
+├── script.py       # Main script
 
 └── emails.csv         # CSV file with scheduled emails
 
