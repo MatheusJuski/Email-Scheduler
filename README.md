@@ -2,7 +2,7 @@ Automated Email Scheduler in Python
 
 This is a simple Python project that allows you to automatically send emails based on a schedule, using data from a CSV file. It is ideal for learning and showcasing your skills in automation, data handling, and scripting.
 
-Purpose
+Purpose:
 
 The project was built as part of a programming portfolio, demonstrating the use of:
 Task scheduling using the schedule library
@@ -10,7 +10,7 @@ Email automation with yagmail
 CSV file handling
 Continuous execution of scheduled tasks
 
-Features
+Features:
 
 Read email schedules from a CSV file
 Automatically send emails at the scheduled time
