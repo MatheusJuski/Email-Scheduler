@@ -24,29 +24,34 @@ email_scheduler/
 
 CSV Format (emails.csv)
 email,subject,message,time
+```Python
 example1@email.com,Subject 1,Message for example 1,08:00
 example2@email.com,Subject 2,Message for example 2,09:30
-
+```
 How to Use
 Clone this repository:
 git clone https://github.com/MatheusJuski/Email-Scheduler.git
 cd Email-Scheduler
 
 Install dependencies:
+```python
 pip install schedule yagmail
+```
 
 Configure your sender email:
 Edit agendador.py and set your email and app password:
 
+```Python
 EMAIL = "youremail@gmail.com"
 PASSWORD = "your_app_password"
-
+```
 ⚠️ For Gmail users, make sure to enable 2FA and generate an App Password.
 Edit the emails.csv file with the emails you want to send.
 
 Run the scheduler with:
+```Python
 python agendador.py
-
+```
 
 
 Possible Improvements
