@@ -30,9 +30,10 @@ example2@email.com,Subject 2,Message for example 2,09:30
 ```
 How to Use
 Clone this repository:
+```Bash
 git clone https://github.com/MatheusJuski/Email-Scheduler.git
 cd Email-Scheduler
-
+```
 Install dependencies:
 ```python
 pip install schedule yagmail
