@@ -1,6 +1,6 @@
 Automated Email Scheduler in Python
 
-This is a simple Python project that allows you to automatically send emails based on a schedule, using data from a CSV file. It is ideal for learning and showcasing your skills in automation, data handling, and scripting.
+This is a simple Python project that allows you to automatically send emails based on a schedule, using data from a CSV file. It is ideal for learning and showcasing my skills in automation, data handling, and scripting.
 
 Purpose:
 
