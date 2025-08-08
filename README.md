@@ -20,7 +20,7 @@ email_scheduler/
 
 ├── script.py       # Main script
 
-└── emails.csv         # CSV file with scheduled emails
+└── email.csv         # CSV file with scheduled emails
 
 CSV Format (emails.csv)
 email,subject,message,time
